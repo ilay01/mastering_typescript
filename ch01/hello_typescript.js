@@ -6,3 +6,4 @@ console.log(`was geht ${version}`); // und nutzt sie mit Dollarzeichen
 // mit tsc -w passiert das automatisch - watch mode 
 var myString = `this is a string`;
 myString = `jason`;
+//# sourceMappingURL=hello_typescript.js.map
