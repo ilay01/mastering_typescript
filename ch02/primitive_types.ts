@@ -1,21 +1,13 @@
 // ### undefined ###
-// ### undefined ###
 // here we dont know the type of the variable, is ut a number? string? whatsoever?
 
 // ### Null ###
 // we know the type but not the value, so its null
-// ### Null ###
-// we know the type but not the value, so its null
 
-// ### Conditional Expressions ###
-// if is ? und then is :
 // ### Conditional Expressions ###
 // if is ? und then is :
 // (conditional) ? (true statement) : (false statement);
 
-const value: number = 10;
-const message: string =
-  value > 10 ? "value is larger than 10" : "value is 10 or less"; // can also be chained
 const value: number = 10;
 const message: string =
   value > 10 ? "value is larger than 10" : "value is 10 or less"; // can also be chained
@@ -125,6 +117,7 @@ aNumber2 = <number> u;
 
 // ### Never ###
 // didnt not understand as well as never switfch
+
 
 
 
